@@ -59,6 +59,10 @@ a 220Ω resistor in line, then attach the programmed ATtiny13 as follows:
                                     Lens side
 ```
 
+Example of how it might look on a lens:
+
+![Photo of install](sigmafix_lens_diagram.jpg)
+
 ## The problem
 
 Canon EF lenses accept both commands `12 YY` and `13 YY` to change the aperture
